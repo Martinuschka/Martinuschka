@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Martinuschka
-- 👀 I’m interested in experimenting with different programming languages
+- 👀 I’m interested in experimenting with different programming languages and technologies
 - 🌱 I’m currently working with Machine Learning
 - 💞️ I’m looking to collaborate on new ideas for sustainability and ecologic solutions
 - 📫 How to reach me: GitHub
